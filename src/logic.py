@@ -101,7 +101,7 @@ def checkEvents(running, playing, positions, count):
                         count = 0
 
                     case pygame.K_g:
-                        positions = gen(random.randrange(4, 10) * GRID_WIDTH)
+                        positions = gen(random.randrange(5, 10) * GRID_WIDTH)
 
                     case pygame.K_q:
                         pygame.quit()

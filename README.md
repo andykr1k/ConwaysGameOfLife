@@ -33,7 +33,8 @@ python src/main.py
 
 ```
 g = Generate Random Tile Set
-space = Play/Pause Conway's Game
 c = Clear Grid
 q = Quit
+Space = Play/Pause Conway's Game
+Left Click = Add/Remove Tile
 ```
